@@ -1,0 +1,29 @@
+body{
+    font-family: Arial;
+    font-size: 2em;
+    
+    text-align: center;
+    background-image: url("pedro.jpg"),url("gremiocr7.jpg");
+    background-size: contain,cover;
+    background-repeat: no-repeat,no-repeat;
+    background-position: left, top;
+    
+}
+#h1{
+    color: purple;
+    font-size: 10em;
+}
+
+
+#aument{
+    background-color: rgb(98, 96, 199);
+    font-size: 1em;
+    
+}
+#dimin{
+    background-color: brown;
+    font-size: 1em;
+}
+#reset{
+    font-size: 1em;
+}
